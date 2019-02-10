@@ -11,5 +11,6 @@ public class Main {
 
         //added new line here
         System.out.println("added new ");
+        System.out.println("added new line here ");
     }
 }
